@@ -1,0 +1,7 @@
+services:
+  desafio:
+    build:
+      context: C:\Projetos\Take\sdkDesafio
+      dockerfile: desafio/Dockerfile
+    image: desafio
+version: '3.4'
