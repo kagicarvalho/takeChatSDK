@@ -12,7 +12,7 @@ services:
     environment:
       - NUGET_FALLBACK_PACKAGES=/root/.nuget/fallbackpackages;/root/.nuget/fallbackpackages2
     volumes:
-      - C:\Projetos\Take\sdkDesafio\desafio:/app
+      - C:\Take\Chat\takeChatSDK\desafio:/app
       - C:\Users\kagic\vsdbg\vs2017u5:/remote_debugger:rw
       - C:\Users\kagic\.nuget\packages\:/root/.nuget/packages:ro
       - C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages:/root/.nuget/fallbackpackages:ro

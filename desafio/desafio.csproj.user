@@ -5,6 +5,6 @@
   </PropertyGroup>
   <PropertyGroup>
     <ActiveDebugProfile>WSL 2</ActiveDebugProfile>
-    <_LastSelectedProfileId>C:\Projetos\Take\sdkDesafio\desafio\Properties\PublishProfiles\registry.hub.docker.com_kagicarvalho.pubxml</_LastSelectedProfileId>
+    <_LastSelectedProfileId>C:\Take\Chat\takeChatSDK\desafio\Properties\PublishProfiles\registry.hub.docker.com_kagicarvalho.pubxml</_LastSelectedProfileId>
   </PropertyGroup>
 </Project>

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "F5Ksyur/g+uKot5X14jr3DH4rDX85AELklG90Meen6rS9kxkow7F0s4lSntCBzXVA2IP1EwITdv/qydFG2eZYQ==",
+  "dgSpecHash": "lRtm+QZ/5WOL3Tsq6rfBF7S6++1Yqv0hEEQja94647LPDCln97Ougv2dyRov5oxyoSx/DoFhLkCrSCGxngYXXQ==",
   "success": true,
-  "projectFilePath": "C:\\Projetos\\Take\\sdkDesafio\\desafio\\desafio.csproj",
+  "projectFilePath": "C:\\Take\\Chat\\takeChatSDK\\desafio\\desafio.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kagic\\.nuget\\packages\\commandlineparser\\2.1.1-beta\\commandlineparser.2.1.1-beta.nupkg.sha512",
     "C:\\Users\\kagic\\.nuget\\packages\\dasmulli.win32.serviceutils\\1.0.1\\dasmulli.win32.serviceutils.1.0.1.nupkg.sha512",

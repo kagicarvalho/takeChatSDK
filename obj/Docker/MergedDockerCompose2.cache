@@ -1,0 +1,7 @@
+services:
+  desafio:
+    build:
+      context: C:\Take\Chat\takeChatSDK
+      dockerfile: desafio/Dockerfile
+    image: desafio
+version: '3.4'
